@@ -332,7 +332,7 @@ Worked with Python and core data-science libraries across multiple dataset proje
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=rooney011&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rooney011&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </a>
 
 </div>
